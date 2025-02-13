@@ -24,7 +24,9 @@ _A smart system that monitors soil moisture, temperature, and humidity, automati
 
 ## 📲 Mobile App (MIT App Inventor)  
 - The MIT App allows users to **view live sensor readings** of soil moisture, humidity and temerature, **control the water pump manually** via bluetooth and a list of some plants and thier moisture requiremnets. 
-- To use, install the app on your Android device and connect to the **HC-05 Bluetooth module**.  
+- To use, install the app on your Android device and connect to the **HC-05 Bluetooth module**.
+- 📱 **Download the App:**  
+🔗 [Automatic Plant Watering System APK](https://github.com/B0tati/Automatic-plant-watering-system-/releases/download/v1.0/Automatic.plant.watering.system.app.apk)
 
 ## 📂 Files in This Repository  
 📌 **`plant_watering.ino`** - Arduino code for sensor readings & automation  
